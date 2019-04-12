@@ -1,0 +1,18 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{resume}[2019/04/05 Resume CV]
+
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\usepackage{geometry}
+
+
+\setCJKmainfont[BoldFont = Noto Sans CJK SC Bold]{Noto Sans CJK SC} % 设置缺省中文字体
+\setCJKsansfont{Noto Sans CJK SC}
+\setCJKmonofont{Noto Sans Mono CJK SC} % 设置等宽字体
+\setmainfont{Noto Sans CJK SC} % 设置英文字体
+\geometry{a4paper,left=1.2cm,right=1.2cm,top=2cm,bottom=2cm} % 设置页面边距
+\pagenumbering{gobble} % 隐藏页数
+\XeTeXlinebreaklocale "zh" % 设置中文换行
+\XeTeXlinebreakskip = 0pt plus 1pt
+
+\endinput
