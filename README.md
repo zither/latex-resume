@@ -1,5 +1,13 @@
 # 简单的中文简历模板
 
+模板默认采用思源系列字体，使用前请先安装对应字体。预览简历中的手机、邮箱、学历等所有信息纯属虚构，请勿当真。
+
+## 预览
+
+| 不带二维码 | 带二维码 |
+|:---:|:---:|
+| [![](/examples/resume.png)](https://github.com/zither/latex-resume/blob/master/examples/resume.pdf)  | [![](/examples/resume_qrcode.png)](https://github.com/zither/latex-resume/blob/master/examples/resume_qrcode.pdf) |
+
 ## 使用方法
 
 以 Ubuntu 18.04为例，安装 XeLaTeX：
@@ -37,12 +45,6 @@ $ sudo apt install texstudio
 ```
 
 修改 TeXstudio 默认编译引擎：`Options` -> `Configure TeXstudio` -> `Build` -> `Default Compiler` -> `XeLaTex`，修改后可以按 F5 预览，F6 编译简历。
-
-## 预览
-
-| 不带二维码 | 带二维码 |
-|:---:|:---:|
-| [![](/examples/resume.png)](https://github.com/zither/latex-resume/blob/master/examples/resume.pdf)  | [![](/examples/resume_qrcode.png)](https://github.com/zither/latex-resume/blob/master/examples/resume_qrcode.pdf) |
 
 ## 参考列表
 
