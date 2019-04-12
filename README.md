@@ -1,6 +1,6 @@
-# 一个简单的中文简历模板
+# 简单的中文简历模板
 
-参考列表
+## 参考列表
 
  - [How to write a LaTeX class file and design your own CV](https://www.sharelatex.com/blog/2011/03/27/how-to-write-a-latex-class-file-and-design-your-own-cv.html)
  - [billryan/resume](https://github.com/billryan/resume/tree/zh_CN)
