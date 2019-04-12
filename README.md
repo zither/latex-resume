@@ -9,6 +9,6 @@
 
 ## 预览
 
-![](/examples/resume.png)
-
-![](/examples/resume_qrcode.png)
+| Without Sections | With Sections |
+|:---:|:---:|
+| [![](/examples/resume.png)](https://github.com/zither/latex-resume/blob/master/examples/resume.pdf)  | [![](/examples/resume_qrcode.png)](https://github.com/zither/latex-resume/blob/master/examples/resume_qrcode.pdf) |
